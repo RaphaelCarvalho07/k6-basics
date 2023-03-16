@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "browserfy": "^1.0.0",
+    "uuid": "^3.4.0"
+  }
+}
